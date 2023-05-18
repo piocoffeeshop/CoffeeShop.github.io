@@ -1,0 +1,17 @@
+body {
+background-color: grey;
+}
+
+h1 {
+color: Black;
+text-align: center;
+}
+
+p {
+font-family: verdana;
+font-size: 30px;
+}
+button a {
+padding: 10px;
+margin: 5px;
+}
